@@ -1,0 +1,23 @@
+{
+  "name": "emojilang",
+  "version": "1.0.0",
+  "description": "A language for emoji.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emwebb/EmojiLang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emwebb/EmojiLang/issues"
+  },
+  "homepage": "https://github.com/emwebb/EmojiLang#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "grapheme-splitter": "^1.0.2"
+  }
+}
